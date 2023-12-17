@@ -1,3 +1,6 @@
+#Utilized dynamic programming to develop and implement an algorithm for intelligent image resizing to remove vertical seams of similar pixels, 
+#minimizing image artifacts
+
 import imagematrix
 import numpy as np
 
